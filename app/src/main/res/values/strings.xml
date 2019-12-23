@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">BRApp</string>
+    <string name="store_gen">Store %d</string>
+    <string name="purchase_cost">$ %.2f</string>
+</resources>
